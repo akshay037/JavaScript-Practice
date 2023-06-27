@@ -30,6 +30,7 @@ marks.shift(55); // Removes the first element of an array, and returns that elem
 marks.slice(1, 2); // Selects a part of an array, and returns the new array
 marks.splice(1, 2); // Adds/Removes elements from an array
 marks.reverse(); // Reverses the order of the elements in an array
+
 // let marks3 = [84,48];
 // marks = marks.concat(marks3);
 console.log(marks);
