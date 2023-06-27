@@ -28,6 +28,7 @@ marks.unshift(35);
 marks.pop(55);
 marks.shift(55);
 marks.slice(1, 2);
+marks.splice(1, 2);
 marks.reverse();
 // let marks3 = [84,48];
 // marks = marks.concat(marks3);
